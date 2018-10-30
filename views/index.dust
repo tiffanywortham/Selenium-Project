@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Top 10 crackers yo</title>
+    <style>
+    </style>
+    <script src="/assets/root.js"></script>
+</head>
+
+<body>
+    <h1 id="yee">Very Important List</h1>
+    <p> This is a top 10 list of the best crackers around town. This webpage is dedicated
+    to providing you with the finest cracker info. Only 100% cracker content. We're not
+    here to talk about toast. We're not here to talk about chips. We're not here to talk
+    about cripsy cookies. We're not here to talk about shredded wheat. We're here to talk
+    about crackers. </p>
+
+    <img id="loader" src="/assets/ajax-loader.gif" />
+</body>
+
+</html>
