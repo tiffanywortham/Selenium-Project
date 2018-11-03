@@ -1,0 +1,16 @@
+<ol>
+    <h1> Cheese is superior to crackers </h1>
+    <img src="assets\cheese-goo.jpg">
+    <div> BUT cheese ON a cracker is superior <img src="assets\cheesencracker.jpg"> </div>
+    <div> Do you agree? </div>
+    <button> Yes </button>
+    <button> No </button>
+</ol>
+<style>
+h1 {
+  color: orange;
+}
+img {
+  height: 200;
+}
+</style>
