@@ -14,7 +14,11 @@ app.use(bodyParser.urlencoded({extended: false}));
 app.use(bodyParser.json());
 
 app.get("/", function (request, response) {
-    response.render('index', {});
+    response.render('cracker', {});
+});
+
+app.get("/cheese", function (request, response) {
+    response.render('cheese', {});
 });
 
 app.use('/assets', express.static('assets'));
