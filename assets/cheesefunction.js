@@ -4,7 +4,7 @@ let loadFunction = function() {
 
     let changeYesButton = document.querySelector('.yes-button');
     let changeYes = function() {
-        changeThisDiv.innerHTML = "Heck yeah they are";
+        changeThisDiv.innerHTML = "Heck yeah cheese n crackers for life";
     };
     changeYesButton.addEventListener("click", changeYes);
 
