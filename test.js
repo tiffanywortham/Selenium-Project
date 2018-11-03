@@ -10,8 +10,7 @@ const {Builder, By, Key, until} = require('selenium-webdriver');
     await driver.wait(until.elementLocated(By.name('username')), 20000);   
     await driver.findElement(By.name('username')).sendKeys('haha yeet', Key.RETURN);
     await driver.wait(until.titleIs('Top 10 crackes yo'), 4000);
-    
-
+   
   } finally {
     await driver.quit();
   }
