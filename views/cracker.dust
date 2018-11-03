@@ -1,4 +1,5 @@
 <h1> We talking bout crackers </h1>
+<input> What's your favortie cracker? </input>
 <ul>
     <li> Saltines are a fantasic simple salty snacc <img src="assets\cracker1.jpg"> </li>
     <li> Ritz are NOT the pits <img src="assets\cracker2.jpg"> </li>
@@ -15,9 +16,7 @@
 </ul>
 
 <style>
-  a {
-    font: 20pt;
-  }
+
   h1 {
     color: #9b7245;
   }
