@@ -20,7 +20,7 @@
     <li> These bread crackers aren't really crackers, but they're cripsy and niiiiice <img src="assets\cracker9.jpg"> </li>
     <li> Love me some animal crackers <img src="assets\cracker10.jpg"> </li>
     <br>
-    <a href="/cheese">Not into crackers? No problem!</a>
+    <a href="/cheese" name="cheeseLink">Not into crackers? No problem!</a>
 </ul>
 
 <style>

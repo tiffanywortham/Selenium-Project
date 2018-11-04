@@ -13,6 +13,9 @@ const {Builder, By, Key, until} = require('selenium-webdriver');
     //await driver.wait(until.elementLocated(By.id('submitButton')), 20000);  
     await driver.findElement(By.id("submitButton"));
     await driver.executeScript("arguments[0].click();", driver.findElement(By.id("submitButton")));
+      
+    await driver.findElement(By.name("cheeseLink")).click();
+    await driver.wait(until.titleIs("Cheese: The bee's knees"), 1000);
     
   } finally {
     await driver.quit();

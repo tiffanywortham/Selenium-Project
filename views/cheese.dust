@@ -1,4 +1,7 @@
-<head><script src="/assets/cheesefunction.js"></script></head>
+<head>
+    <title>Cheese: The bee's knees</title>
+    <script src="/assets/cheesefunction.js"></script>
+</head>
 
     <h1> Cheese is superior to crackers </h1>
     <img src="assets\cheese-goo.jpg">
