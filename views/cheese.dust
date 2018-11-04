@@ -1,14 +1,17 @@
-<head><script src="/assets/cheesefunction.js"></script></head>
+<head>
+    <title>Cheese: The bee's knees</title>
+    <script src="/assets/cheesefunction.js"></script>
+</head>
 
     <h1> Cheese is superior to crackers </h1>
     <img src="assets\cheese-goo.jpg">
     <div> BUT cheese ON a cracker is the reigning champion </div>
     <img src="assets\cheesencracker.jpg">
     <div> Do you agree? </div>
-    <button class="yes-button"> Yes </button>
+    <button class="yes-button" name = "yesButton"> Yes </button>
     <button class="no-button"> No </button>
     <div id="change"> </div>
-    <a href="/"> Please take me back to the crackers </a>
+    <a href="/" name="homeLink"> Please take me back to the crackers </a>
 
 <style>
 button {

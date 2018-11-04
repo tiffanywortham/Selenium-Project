@@ -1,4 +1,8 @@
-<head><script src="/assets/crackerfunction.js"></script></head>
+<head>
+    <title> Top 10 crackers yo </title>
+    <script src="/assets/crackerfunction.js"></script>
+</head>
+
 <h1> We talking bout crackers </h1>
 <h2> What's your favortie cracker? </h2>
 <input id="inputCracker">  </input>
@@ -16,7 +20,7 @@
     <li> These bread crackers aren't really crackers, but they're cripsy and niiiiice <img src="assets\cracker9.jpg"> </li>
     <li> Love me some animal crackers <img src="assets\cracker10.jpg"> </li>
     <br>
-    <a href="/cheese">Not into crackers? No problem!</a>
+    <a href="/cheese" name="cheeseLink">Not into crackers? No problem!</a>
 </ul>
 
 <style>
