@@ -29,7 +29,7 @@ const {Builder, By, Key, until} = require('selenium-webdriver');
     
     try{
         await driver.findElement(By.name("cheeseLink")).click();
-        await driver.wait(until.titleIs("Ceese: The bee's knees"), 1000);
+        await driver.wait(until.titleIs("Cheese: The bee's knees"), 1000);
         console.log("Test case 4 passed");
     } catch(err){
         console.log("Test case 4 failed with error: ", err);
