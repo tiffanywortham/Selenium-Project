@@ -7,7 +7,7 @@
 <h2> What's your favortie cracker? </h2>
 <input id="inputCracker">  </input>
 <button id="submitButton">Submit</button>
-<div id="favCrack"> </div>
+<div id="favCracker"> </div>
 <ul>
     <li> Saltines are a fantasic simple salty snacc <img src="assets\cracker1.jpg"> </li>
     <li> Ritz are NOT the pits <img src="assets\cracker2.jpg"> </li>
