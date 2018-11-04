@@ -8,10 +8,10 @@
     <div> BUT cheese ON a cracker is the reigning champion </div>
     <img src="assets\cheesencracker.jpg">
     <div> Do you agree? </div>
-    <button class="yes-button"> Yes </button>
+    <button class="yes-button" name = "yesButton"> Yes </button>
     <button class="no-button"> No </button>
     <div id="change"> </div>
-    <a href="/"> Please take me back to the crackers </a>
+    <a href="/" name="homeLink"> Please take me back to the crackers </a>
 
 <style>
 button {
