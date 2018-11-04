@@ -10,7 +10,7 @@ let loadFunction = function() {
 
     let changeNoButton = document.querySelector('.no-button');
     let changeNo = function() {
-        window.location.replace("http://heavensgate.com");
+        window.location.replace("http://google.com");
     };
     changeNoButton.addEventListener("click", changeNo);
 
