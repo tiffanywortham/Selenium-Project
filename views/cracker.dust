@@ -1,4 +1,8 @@
-<head><script src="/assets/crackerfunction.js"></script></head>
+<head>
+    <title> Top 10 crackers yo </title>
+    <script src="/assets/crackerfunction.js"></script>
+</head>
+
 <h1> We talking bout crackers </h1>
 <h2> What's your favortie cracker? </h2>
 <input id="inputCracker">  </input>
