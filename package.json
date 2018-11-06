@@ -14,10 +14,10 @@
     "hoffman": "^0.2.2"
   },
   "devDependencies": {
-    "nightwatch": "^0.9.16",
     "eslint": "^4.9.0",
     "jasmine": "^2.8.0",
-    "nodemon": "^1.12.1",
+    "nightwatch": "^0.9.16",
+    "nodemon": "^1.18.6",
     "selenium-server-standalone-jar": "^3.6.0",
     "selenium-webdriver": "4.0.0-alpha.1"
   },
