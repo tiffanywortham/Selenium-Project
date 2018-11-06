@@ -4,7 +4,7 @@
 </head>
 
 <h1> We talking bout crackers </h1>
-<h2> What's your favortie cracker? </h2>
+<h2> What's your favorite cracker? </h2>
 <input id="inputCracker">  </input>
 <button id="submitButton">Submit</button>
 <div id="favCracker"> </div>
@@ -24,11 +24,13 @@
 </ul>
 
 <style>
-
-  h1 {
-    color: #9b7245;
-  }
-  img {
-    height: 200;
-  }
+    button:hover {
+        background-color: #A9A9A9
+    }
+    h1 {
+        color: #9b7245;
+    }
+    img {
+        height: 200;
+    }
 </style>
