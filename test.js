@@ -13,7 +13,7 @@ const {Builder, By, Key, until} = require('selenium-webdriver');
     
     try{
         await driver.wait(until.elementLocated(By.id('inputCracker')), 20000);  
-        await driver.findElement(By.id('inputCracker')).sendKeys('haha yeet', Key.RETURN);
+        await driver.findElement(By.id('inputCracker')).sendKeys('cheese its grooves', Key.RETURN);
         console.log("Test case 2 passed");
     } catch(err){
         console.log("Test case 2 failed with error: ", err);
